@@ -33,6 +33,9 @@ Inicia o container somente em tempo de execução
 ## docker-compose up -d
 Inicia o container em background
 
+## docker-compose up --force-recreate
+Recria o container após alguma alteração
+
 ## docker-compose stop
 Para o container em execução
 
